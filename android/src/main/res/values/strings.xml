@@ -2,8 +2,8 @@
     <string name="app_name">PhotoEditor</string>
     <string name="title_activity_photo_editor">PhotoEditorActivity</string>
     <string name="done">Done</string>
-    <string name="save">Save</string>
-    <string name="clear_all">Clear All</string>
+    <string name="save">aaa</string>
+    <string name="clear_all">aaa</string>
     <string name="camera">Camera</string>
     <string name="gallery">Gallery</string>
     <string name="upload_dialog_title">Upload Image</string>
@@ -26,7 +26,7 @@
     <string name="ic_crop">&#xf565;</string>
     <string name="choose_from_gallery">Choose From Gallery</string>
     <string name="choose_from_camera">Choose From Camera</string>
-    <string name="undo">Undo</string>
-    <string name="erase">Erase</string>
+    <string name="undo">aaa</string>
+    <string name="erase">aa</string>
 
 </resources>
